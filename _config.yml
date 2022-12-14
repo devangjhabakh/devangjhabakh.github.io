@@ -31,7 +31,7 @@ github_username:  jekyll
 footer: '<a href="https://www.linkedin.com/in/devangjhabakh/">linkedin</a> <a href="https://github.com/devangjhabakh">github</a>'
 
 # Build settings
-theme: jekyll-theme-console
+# theme: jekyll-theme-console
 
 header_pages:
   - index.md
