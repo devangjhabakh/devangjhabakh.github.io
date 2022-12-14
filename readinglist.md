@@ -4,7 +4,7 @@ title: /reading
 permalink: /reading/
 ---
 
-Just a public facing reading list for me to be accountable of my habit.
+A list of the books I have recently read, for accountability sake.
 
 - The Billionaire Raj, James Crabtree
 - The Hard Thing About Hard Things, Ben Horowitz
