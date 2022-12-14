@@ -7,4 +7,4 @@ title: /devang
 
 Hi!
 
-I'm Devang. I like tinkering with software to build things. Interested in all things software & startups.
+I'm Devang. I like building things with software.
