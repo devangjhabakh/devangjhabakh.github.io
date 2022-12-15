@@ -11,7 +11,7 @@ A list of the books I have recently read, for accountability sake.
 - Never Split the Difference, Chris Voss & Tahl Raz
 - Crime and Punishment, Fyodor Dostoevsky
 - A Short History of Nearly Everything, Bill Bryson
-- Excellent Sheet, William Deresiewicz
+- Excellent Sheep, William Deresiewicz
 - Sapiens, Yuval Noah Harari
 - Outliers, Malcom Gladwell
 - How to Win Friends and Influence People, Dale Carnegie
