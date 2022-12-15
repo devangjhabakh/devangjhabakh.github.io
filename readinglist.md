@@ -30,3 +30,4 @@ A list of the books I have recently read, for accountability sake.
 - To Sell is Human, Daniel H. Pink
 - Range, David Epstien
 - An Elegant Puzzle: Systems of Engineering Management, Will Larson
+- The Lessons of History, Will and Ariel Durant
