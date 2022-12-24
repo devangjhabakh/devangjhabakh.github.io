@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Devang's personal website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-footer: '<a href="https://www.linkedin.com/in/devangjhabakh/">linkedin</a> <a href="https://github.com/devangjhabakh">github</a> <a href="https://calendly.com/devangjhabakh/15min">calendly</a>'
+footer: '<a href="https://www.linkedin.com/in/devangjhabakh/">linkedin</a> <a href="https://github.com/devangjhabakh">github</a> <a href="https://calendly.com/devangjhabakh/15min">let&#39;s meet!</a>'
 
 # Build settings
 # theme: jekyll-theme-console
