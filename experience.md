@@ -3,9 +3,12 @@ layout: page
 title: /experience
 permalink: /experience/
 ---
+**Summer 2024**
+<img src="/new.gif" alt="new" width="40"/>
+Incoming Member of Technical Staff at a stealthful AI startup, backed by Sutter Hill Ventures.
 
 **Summer 2023:**
-<img src="/new.gif" alt="new" width="40"/>
+Product Management Intern at Verkada Access Control. Owned 3 Tier-2 launches, closed 6-figure deals, built successful cross-platform feature, [featured in an ad!](https://www.linkedin.com/feed/update/urn:li:activity:7100576964679266304/)
 
 **Summer 2022:**
 Software Engineering Intern at Verkada. Worked on Access control. Made lots of changes to infrastucture, was the first intern in company history to go on-call, carried out large data pipeline migration to alleviate growing technical debt.
