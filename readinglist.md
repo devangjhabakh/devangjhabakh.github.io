@@ -31,3 +31,5 @@ A list of the books I have recently read, for accountability sake.
 - Range, David Epstien
 - An Elegant Puzzle: Systems of Engineering Management, Will Larson
 - The Lessons of History, Will and Ariel Durant
+- The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail, Clayton Christensen
+- Incomplete Nature: How Mind Emerged from Matter, Terrence Deacon
