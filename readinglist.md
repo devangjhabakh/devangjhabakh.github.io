@@ -4,7 +4,7 @@ title: /reading
 permalink: /reading/
 ---
 
-A list of the books I have recently read, for accountability sake.
+A list of the books I have recently read.
 
 - The Billionaire Raj, James Crabtree
 - The Hard Thing About Hard Things, Ben Horowitz
