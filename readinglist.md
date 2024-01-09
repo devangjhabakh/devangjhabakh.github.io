@@ -33,4 +33,4 @@ A list of the books I have recently read.
 - The Lessons of History, Will and Ariel Durant
 - The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail, Clayton Christensen
 - Incomplete Nature: How Mind Emerged from Matter, Terrence Deacon
-- When McKinsey Comes to Town: The Hidden Influence of the World's Most Powerful Consulting Firm, Michael Forsythe and Walt Bogdanich
+- When McKinsey Comes to Town, Michael Forsythe and Walt Bogdanich
